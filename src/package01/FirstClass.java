@@ -6,6 +6,7 @@ public class FirstClass {
 		
 		System.out.println("ilk commit from local reposýtory");
 		System.out.println("ikinci commit from local reposýtory");
+		System.out.println("Yeni brach oluþturdum adý feature");
 	}
 
 }
